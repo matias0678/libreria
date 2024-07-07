@@ -1,0 +1,1546 @@
+CRITICAL - 2023-10-13 02:50:59 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 02:51:02 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 02:51:02 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 02:51:03 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 02:51:03 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 02:51:03 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 02:51:03 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 02:51:21 --> Undefined property: stdClass::$id_nombre
+in APPPATH\Views\listado.php on line 52.
+ 1 APPPATH\Views\listado.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id_nombre', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 52)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 02:51:26 --> Undefined property: stdClass::$id_nombre
+in APPPATH\Views\listado.php on line 52.
+ 1 APPPATH\Views\listado.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id_nombre', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 52)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 02:51:27 --> Undefined property: stdClass::$id_nombre
+in APPPATH\Views\listado.php on line 52.
+ 1 APPPATH\Views\listado.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id_nombre', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 52)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 02:51:27 --> Undefined property: stdClass::$id_nombre
+in APPPATH\Views\listado.php on line 52.
+ 1 APPPATH\Views\listado.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id_nombre', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 52)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 02:51:33 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 02:51:34 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 02:51:34 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:47:46 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:47:47 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:47:48 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:47:48 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:47:48 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:48:09 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:48:09 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:48:10 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:49:50 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:49:51 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:49:51 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:49:51 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:49:51 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:49:51 --> Undefined constant "base_url"
+in APPPATH\Views\listado.php on line 55.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 4 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:50:13 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:51:01 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:51:01 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:51:02 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:51:02 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:51:02 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:51:02 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:51:37 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:51:37 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:51:37 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:51:37 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:51:38 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:51:38 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:51:38 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:51:39 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:52:06 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:52:06 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:52:07 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:52:07 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:52:07 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:52:07 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:52:07 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:52:08 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:53:20 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:53:20 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:53:20 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:53:21 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:53:21 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:53:21 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:53:21 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:53:46 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:53:47 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:53:47 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:53:47 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:53:47 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:53:47 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:53:47 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:53:47 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:53:48 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:55:43 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:55:44 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:55:44 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:55:44 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:56:08 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:56:09 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:56:09 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:56:09 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:56:09 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:56:44 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:56:45 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:56:45 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:56:45 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:56:45 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:59:19 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:59:20 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:59:35 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:59:35 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:59:35 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:59:35 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:59:36 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:59:44 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:59:45 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:59:45 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 05:59:45 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:00:01 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:00:02 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:00:02 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:00:07 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:00:07 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:00:07 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:00:07 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:01:36 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:01:36 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:01:37 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:01:37 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:01:37 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:01:37 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:01:38 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:01:38 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:01:38 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:02:48 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:02:48 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:02:48 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:09:15 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-13 06:19:26 --> mysqli_sql_exception: Table 'libreria.libros' doesn't exist in C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php(306): mysqli->query('select * from l...', 0)
+#1 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select * from l...')
+#2 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select * from l...')
+#3 C:\xampp\htdocs\libreria\app\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from l...')
+#4 C:\xampp\htdocs\libreria\app\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+#5 C:\xampp\htdocs\libreria\system\CodeIgniter.php(919): App\Controllers\Crud->index()
+#6 C:\xampp\htdocs\libreria\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\libreria\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\libreria\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-10-13 06:19:26 --> Table 'libreria.libros' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from libros')
+ 2 APPPATH\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-13 06:20:59 --> mysqli_sql_exception: Table 'libreria.libros' doesn't exist in C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php(306): mysqli->query('select * from l...', 0)
+#1 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select * from l...')
+#2 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select * from l...')
+#3 C:\xampp\htdocs\libreria\app\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from l...')
+#4 C:\xampp\htdocs\libreria\app\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+#5 C:\xampp\htdocs\libreria\system\CodeIgniter.php(919): App\Controllers\Crud->index()
+#6 C:\xampp\htdocs\libreria\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\libreria\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\libreria\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-10-13 06:20:59 --> Table 'libreria.libros' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from libros')
+ 2 APPPATH\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-13 06:23:20 --> mysqli_sql_exception: Table 'libreria.libros' doesn't exist in C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php(306): mysqli->query('select * from l...', 0)
+#1 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select * from l...')
+#2 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select * from l...')
+#3 C:\xampp\htdocs\libreria\app\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from l...')
+#4 C:\xampp\htdocs\libreria\app\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+#5 C:\xampp\htdocs\libreria\system\CodeIgniter.php(919): App\Controllers\Crud->index()
+#6 C:\xampp\htdocs\libreria\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\libreria\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\libreria\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-10-13 06:23:20 --> Table 'libreria.libros' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from libros')
+ 2 APPPATH\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-13 06:23:20 --> mysqli_sql_exception: Table 'libreria.libros' doesn't exist in C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php(306): mysqli->query('select * from l...', 0)
+#1 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select * from l...')
+#2 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select * from l...')
+#3 C:\xampp\htdocs\libreria\app\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from l...')
+#4 C:\xampp\htdocs\libreria\app\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+#5 C:\xampp\htdocs\libreria\system\CodeIgniter.php(919): App\Controllers\Crud->index()
+#6 C:\xampp\htdocs\libreria\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\libreria\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\libreria\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-10-13 06:23:20 --> Table 'libreria.libros' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from libros')
+ 2 APPPATH\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-13 06:23:20 --> mysqli_sql_exception: Table 'libreria.libros' doesn't exist in C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php(306): mysqli->query('select * from l...', 0)
+#1 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select * from l...')
+#2 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select * from l...')
+#3 C:\xampp\htdocs\libreria\app\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from l...')
+#4 C:\xampp\htdocs\libreria\app\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+#5 C:\xampp\htdocs\libreria\system\CodeIgniter.php(919): App\Controllers\Crud->index()
+#6 C:\xampp\htdocs\libreria\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\libreria\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\libreria\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-10-13 06:23:20 --> Table 'libreria.libros' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from libros')
+ 2 APPPATH\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-13 06:25:25 --> mysqli_sql_exception: Table 'libreria.libros' doesn't exist in C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php(306): mysqli->query('select * from l...', 0)
+#1 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select * from l...')
+#2 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select * from l...')
+#3 C:\xampp\htdocs\libreria\app\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from l...')
+#4 C:\xampp\htdocs\libreria\app\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+#5 C:\xampp\htdocs\libreria\system\CodeIgniter.php(919): App\Controllers\Crud->index()
+#6 C:\xampp\htdocs\libreria\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\libreria\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\libreria\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-10-13 06:25:25 --> Table 'libreria.libros' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from libros')
+ 2 APPPATH\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-13 06:25:26 --> mysqli_sql_exception: Table 'libreria.libros' doesn't exist in C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php(306): mysqli->query('select * from l...', 0)
+#1 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select * from l...')
+#2 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select * from l...')
+#3 C:\xampp\htdocs\libreria\app\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from l...')
+#4 C:\xampp\htdocs\libreria\app\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+#5 C:\xampp\htdocs\libreria\system\CodeIgniter.php(919): App\Controllers\Crud->index()
+#6 C:\xampp\htdocs\libreria\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\libreria\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\libreria\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-10-13 06:25:26 --> Table 'libreria.libros' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from libros')
+ 2 APPPATH\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-13 06:25:26 --> mysqli_sql_exception: Table 'libreria.libros' doesn't exist in C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php(306): mysqli->query('select * from l...', 0)
+#1 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select * from l...')
+#2 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select * from l...')
+#3 C:\xampp\htdocs\libreria\app\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from l...')
+#4 C:\xampp\htdocs\libreria\app\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+#5 C:\xampp\htdocs\libreria\system\CodeIgniter.php(919): App\Controllers\Crud->index()
+#6 C:\xampp\htdocs\libreria\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\libreria\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\libreria\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-10-13 06:25:26 --> Table 'libreria.libros' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from libros')
+ 2 APPPATH\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-13 06:25:26 --> mysqli_sql_exception: Table 'libreria.libros' doesn't exist in C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php(306): mysqli->query('select * from l...', 0)
+#1 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select * from l...')
+#2 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select * from l...')
+#3 C:\xampp\htdocs\libreria\app\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from l...')
+#4 C:\xampp\htdocs\libreria\app\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+#5 C:\xampp\htdocs\libreria\system\CodeIgniter.php(919): App\Controllers\Crud->index()
+#6 C:\xampp\htdocs\libreria\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\libreria\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\libreria\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-10-13 06:25:26 --> Table 'libreria.libros' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from libros')
+ 2 APPPATH\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-13 06:25:26 --> mysqli_sql_exception: Table 'libreria.libros' doesn't exist in C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php(306): mysqli->query('select * from l...', 0)
+#1 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select * from l...')
+#2 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select * from l...')
+#3 C:\xampp\htdocs\libreria\app\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from l...')
+#4 C:\xampp\htdocs\libreria\app\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+#5 C:\xampp\htdocs\libreria\system\CodeIgniter.php(919): App\Controllers\Crud->index()
+#6 C:\xampp\htdocs\libreria\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\libreria\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\libreria\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-10-13 06:25:26 --> Table 'libreria.libros' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from libros')
+ 2 APPPATH\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-13 06:25:27 --> mysqli_sql_exception: Table 'libreria.libros' doesn't exist in C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php(306): mysqli->query('select * from l...', 0)
+#1 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select * from l...')
+#2 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select * from l...')
+#3 C:\xampp\htdocs\libreria\app\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from l...')
+#4 C:\xampp\htdocs\libreria\app\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+#5 C:\xampp\htdocs\libreria\system\CodeIgniter.php(919): App\Controllers\Crud->index()
+#6 C:\xampp\htdocs\libreria\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\libreria\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\libreria\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-10-13 06:25:27 --> Table 'libreria.libros' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from libros')
+ 2 APPPATH\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-13 06:25:27 --> mysqli_sql_exception: Table 'libreria.libros' doesn't exist in C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php(306): mysqli->query('select * from l...', 0)
+#1 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select * from l...')
+#2 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select * from l...')
+#3 C:\xampp\htdocs\libreria\app\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from l...')
+#4 C:\xampp\htdocs\libreria\app\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+#5 C:\xampp\htdocs\libreria\system\CodeIgniter.php(919): App\Controllers\Crud->index()
+#6 C:\xampp\htdocs\libreria\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\libreria\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\libreria\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-10-13 06:25:27 --> Table 'libreria.libros' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from libros')
+ 2 APPPATH\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-13 06:25:27 --> mysqli_sql_exception: Table 'libreria.libros' doesn't exist in C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php(306): mysqli->query('select * from l...', 0)
+#1 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select * from l...')
+#2 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select * from l...')
+#3 C:\xampp\htdocs\libreria\app\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from l...')
+#4 C:\xampp\htdocs\libreria\app\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+#5 C:\xampp\htdocs\libreria\system\CodeIgniter.php(919): App\Controllers\Crud->index()
+#6 C:\xampp\htdocs\libreria\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\libreria\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\libreria\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-10-13 06:25:27 --> Table 'libreria.libros' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from libros')
+ 2 APPPATH\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-13 06:25:27 --> mysqli_sql_exception: Table 'libreria.libros' doesn't exist in C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\libreria\system\Database\MySQLi\Connection.php(306): mysqli->query('select * from l...', 0)
+#1 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select * from l...')
+#2 C:\xampp\htdocs\libreria\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select * from l...')
+#3 C:\xampp\htdocs\libreria\app\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from l...')
+#4 C:\xampp\htdocs\libreria\app\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+#5 C:\xampp\htdocs\libreria\system\CodeIgniter.php(919): App\Controllers\Crud->index()
+#6 C:\xampp\htdocs\libreria\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\libreria\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\libreria\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-10-13 06:25:27 --> Table 'libreria.libros' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\crudModel.php(8): CodeIgniter\Database\BaseConnection->query('select * from libros')
+ 2 APPPATH\Controllers\Crud.php(12): App\Models\CrudModel->listarLibros()
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:32:16 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:32:17 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:32:17 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:32:17 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:32:17 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:32:17 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:32:18 --> App\Controllers\Crud::index(): Return value must be of type string, none returned
+in APPPATH\Controllers\Crud.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:33:50 --> Undefined variable $datos
+in APPPATH\Views\listado.php on line 45.
+ 1 APPPATH\Views\listado.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 45)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(13): view('listado')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:33:51 --> Undefined variable $datos
+in APPPATH\Views\listado.php on line 45.
+ 1 APPPATH\Views\listado.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 45)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(13): view('listado')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:33:51 --> Undefined variable $datos
+in APPPATH\Views\listado.php on line 45.
+ 1 APPPATH\Views\listado.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 45)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(13): view('listado')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:33:51 --> Undefined variable $datos
+in APPPATH\Views\listado.php on line 45.
+ 1 APPPATH\Views\listado.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 45)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(13): view('listado')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:33:57 --> Undefined variable $datos
+in APPPATH\Views\listado.php on line 45.
+ 1 APPPATH\Views\listado.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 45)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(13): view('listado')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:35:57 --> Undefined variable $datos
+in APPPATH\Views\listado.php on line 45.
+ 1 APPPATH\Views\listado.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 45)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(17): view('listado')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:46:48 --> syntax error, unexpected double-quoted string "autor", expecting "]"
+in APPPATH\Controllers\Crud.php on line 24.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\libreria\\app\\Controllers\\Crud.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Crud')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Crud')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Crud', true)
+ 5 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:49:32 --> Undefined property: stdClass::$libnombre
+in APPPATH\Views\listado.php on line 48.
+ 1 APPPATH\Views\listado.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$libnombre', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 48)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(17): view('listado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:49:38 --> Undefined property: stdClass::$nombre
+in APPPATH\Views\listado.php on line 48.
+ 1 APPPATH\Views\listado.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$nombre', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 48)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(17): view('listado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:49:47 --> Undefined property: stdClass::$lib_autor
+in APPPATH\Views\listado.php on line 49.
+ 1 APPPATH\Views\listado.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$lib_autor', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 49)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(17): view('listado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 06:50:04 --> Undefined property: stdClass::$libid
+in APPPATH\Views\listado.php on line 47.
+ 1 APPPATH\Views\listado.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$libid', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 47)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(17): view('listado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 07:11:17 --> Undefined variable $datos
+in APPPATH\Views\actualizar.php on line 3.
+ 1 APPPATH\Views\actualizar.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\actualizar.php', 3)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\actualizar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('actualizar', [], true)
+ 5 APPPATH\Controllers\Crud.php(52): view('actualizar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->obtenerLibro('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 07:11:38 --> Undefined variable $datos
+in APPPATH\Views\actualizar.php on line 3.
+ 1 APPPATH\Views\actualizar.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\actualizar.php', 3)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\actualizar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('actualizar', [], true)
+ 5 APPPATH\Controllers\Crud.php(52): view('actualizar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->obtenerLibro('2')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 07:11:43 --> Undefined variable $datos
+in APPPATH\Views\actualizar.php on line 3.
+ 1 APPPATH\Views\actualizar.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\actualizar.php', 3)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\actualizar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('actualizar', [], true)
+ 5 APPPATH\Controllers\Crud.php(52): view('actualizar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->obtenerLibro('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 07:30:14 --> Undefined array key "nombre"
+in APPPATH\Controllers\Crud.php on line 73.
+ 1 APPPATH\Controllers\Crud.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nombre"', 'C:\\xampp\\htdocs\\libreria\\app\\Controllers\\Crud.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->eliminar('2')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 07:30:18 --> Undefined array key "nombre"
+in APPPATH\Controllers\Crud.php on line 73.
+ 1 APPPATH\Controllers\Crud.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nombre"', 'C:\\xampp\\htdocs\\libreria\\app\\Controllers\\Crud.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->eliminar('2')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 07:30:48 --> Undefined array key "nombre"
+in APPPATH\Controllers\Crud.php on line 73.
+ 1 APPPATH\Controllers\Crud.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nombre"', 'C:\\xampp\\htdocs\\libreria\\app\\Controllers\\Crud.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->eliminar('2')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 07:30:53 --> Undefined array key "nombre"
+in APPPATH\Controllers\Crud.php on line 73.
+ 1 APPPATH\Controllers\Crud.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nombre"', 'C:\\xampp\\htdocs\\libreria\\app\\Controllers\\Crud.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->eliminar('2')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:12:07 --> Undefined variable $typeId
+in APPPATH\Views\listado.php on line 36.
+ 1 APPPATH\Views\listado.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $typeId', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 36)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:12:08 --> Undefined variable $typeId
+in APPPATH\Views\listado.php on line 36.
+ 1 APPPATH\Views\listado.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $typeId', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 36)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:12:09 --> Undefined variable $typeId
+in APPPATH\Views\listado.php on line 36.
+ 1 APPPATH\Views\listado.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $typeId', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 36)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:12:09 --> Undefined variable $typeId
+in APPPATH\Views\listado.php on line 36.
+ 1 APPPATH\Views\listado.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $typeId', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 36)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:12:49 --> Undefined variable $typeId
+in APPPATH\Views\listado.php on line 72.
+ 1 APPPATH\Views\listado.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $typeId', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 72)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:13:04 --> Undefined variable $typeId
+in APPPATH\Views\listado.php on line 21.
+ 1 APPPATH\Views\listado.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $typeId', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 21)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:13:45 --> Undefined variable $typeId
+in APPPATH\Views\listado.php on line 74.
+ 1 APPPATH\Views\listado.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $typeId', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 74)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:13:46 --> Undefined variable $typeId
+in APPPATH\Views\listado.php on line 74.
+ 1 APPPATH\Views\listado.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $typeId', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 74)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:13:46 --> Undefined variable $typeId
+in APPPATH\Views\listado.php on line 74.
+ 1 APPPATH\Views\listado.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $typeId', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 74)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:13:46 --> Undefined variable $typeId
+in APPPATH\Views\listado.php on line 74.
+ 1 APPPATH\Views\listado.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $typeId', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 74)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:13:46 --> Undefined variable $typeId
+in APPPATH\Views\listado.php on line 74.
+ 1 APPPATH\Views\listado.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $typeId', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 74)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:13:46 --> Undefined variable $typeId
+in APPPATH\Views\listado.php on line 74.
+ 1 APPPATH\Views\listado.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $typeId', 'C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php', 74)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\libreria\\app\\Views\\listado.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('listado', [], true)
+ 5 APPPATH\Controllers\Crud.php(20): view('listado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:32:08 --> Too few arguments to function App\Controllers\Crud::buscarNombre(), 0 passed in C:\xampp\htdocs\libreria\system\CodeIgniter.php on line 919 and exactly 1 expected
+in APPPATH\Controllers\Crud.php on line 91.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->buscarNombre()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:32:12 --> Too few arguments to function App\Controllers\Crud::buscarNombre(), 0 passed in C:\xampp\htdocs\libreria\system\CodeIgniter.php on line 919 and exactly 1 expected
+in APPPATH\Controllers\Crud.php on line 91.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->buscarNombre()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:32:18 --> Too few arguments to function App\Controllers\Crud::buscarNombre(), 0 passed in C:\xampp\htdocs\libreria\system\CodeIgniter.php on line 919 and exactly 1 expected
+in APPPATH\Controllers\Crud.php on line 91.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->buscarNombre()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:32:22 --> Too few arguments to function App\Controllers\Crud::buscarNombre(), 0 passed in C:\xampp\htdocs\libreria\system\CodeIgniter.php on line 919 and exactly 1 expected
+in APPPATH\Controllers\Crud.php on line 91.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->buscarNombre()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:40:58 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(184): CodeIgniter\Model->builder()
+ 3 SYSTEMPATH\BaseModel.php(563): CodeIgniter\Model->doFind(false, null)
+ 4 APPPATH\Controllers\Crud.php(95): CodeIgniter\BaseModel->find(null)
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->buscar()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:41:01 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(184): CodeIgniter\Model->builder()
+ 3 SYSTEMPATH\BaseModel.php(563): CodeIgniter\Model->doFind(false, null)
+ 4 APPPATH\Controllers\Crud.php(95): CodeIgniter\BaseModel->find(null)
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->buscar()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:41:05 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(184): CodeIgniter\Model->builder()
+ 3 SYSTEMPATH\BaseModel.php(563): CodeIgniter\Model->doFind(false, null)
+ 4 APPPATH\Controllers\Crud.php(95): CodeIgniter\BaseModel->find(null)
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->buscar()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:41:46 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(184): CodeIgniter\Model->builder()
+ 3 SYSTEMPATH\BaseModel.php(563): CodeIgniter\Model->doFind(false, null)
+ 4 APPPATH\Controllers\Crud.php(95): CodeIgniter\BaseModel->find(null)
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->buscar()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:41:46 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(184): CodeIgniter\Model->builder()
+ 3 SYSTEMPATH\BaseModel.php(563): CodeIgniter\Model->doFind(false, null)
+ 4 APPPATH\Controllers\Crud.php(95): CodeIgniter\BaseModel->find(null)
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->buscar()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:41:46 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(184): CodeIgniter\Model->builder()
+ 3 SYSTEMPATH\BaseModel.php(563): CodeIgniter\Model->doFind(false, null)
+ 4 APPPATH\Controllers\Crud.php(95): CodeIgniter\BaseModel->find(null)
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->buscar()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:51:59 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(184): CodeIgniter\Model->builder()
+ 3 SYSTEMPATH\BaseModel.php(563): CodeIgniter\Model->doFind(false, null)
+ 4 APPPATH\Controllers\Crud.php(95): CodeIgniter\BaseModel->find(null)
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->buscar()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:52:02 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(184): CodeIgniter\Model->builder()
+ 3 SYSTEMPATH\BaseModel.php(563): CodeIgniter\Model->doFind(false, null)
+ 4 APPPATH\Controllers\Crud.php(95): CodeIgniter\BaseModel->find(null)
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->buscar()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:52:21 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(184): CodeIgniter\Model->builder()
+ 3 SYSTEMPATH\BaseModel.php(563): CodeIgniter\Model->doFind(false, null)
+ 4 APPPATH\Controllers\Crud.php(95): CodeIgniter\BaseModel->find(null)
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->buscar()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-13 23:55:58 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(184): CodeIgniter\Model->builder()
+ 3 SYSTEMPATH\BaseModel.php(563): CodeIgniter\Model->doFind(false, null)
+ 4 APPPATH\Controllers\Crud.php(95): CodeIgniter\BaseModel->find(null)
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Crud->buscar()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
